@@ -7,7 +7,6 @@ fn fill_array(array: &mut [i32], number: i32) {
 }
 
 
-
 fn main() {
  
 
@@ -17,11 +16,5 @@ fn main() {
     for i in 0..array.len() {
         println!("{}", array[i]);
     }
-
-    
-    
-
-
-
 
 }
